@@ -1,8 +1,12 @@
-#Heading1
+Heading1
+==
 
-##Heading2
+Heading2
+--
 
-###Heading3
+
+Heading3
+
 
 To jest tekst jaki powninin być normalny.
 
@@ -92,5 +96,5 @@ hohoho
 hohoho
 hohoho
 
-[Link Do Nagłówka](readme.md#Heading1)
+[Link Do Nagłówka](#Heading1)
 
