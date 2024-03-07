@@ -98,3 +98,4 @@ hohoho
 
 [Link Do Nagłówka](#Heading1)
 
+[Link Do test1 Nagłówka](./doc/test1.md#Heading2)
